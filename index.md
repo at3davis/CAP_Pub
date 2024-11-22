@@ -1,4 +1,4 @@
-# Welcome to My Project
+# Welcome to My CAP Project
 
 Here are the resources available in this repository:
 
