@@ -2,7 +2,7 @@
 
 If you don’t have a Google account associated with the email you provided, you will need to create one.
 
-The calendars created are Google calendars, and to access your squadron calendar, you will need a Google account. You can use your email (it does NOT have to be a Gmail.com address) to create a Google account.  [Learn how to create a Google account here.](https://github.com/at3davis/CAP_Pub/blob/CreateGoogleAcct.md)
+The calendars created are Google calendars, and to access your squadron calendar, you will need a Google account. You can use your email (it does NOT have to be a Gmail.com address) to create a Google account.  [Learn how to create a Google account here.](https://github.com/at3davis/CAP_Pub/CreateGoogleAcct.md)
 
 ---
 
