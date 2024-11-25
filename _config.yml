@@ -1,2 +1,3 @@
 markdown: kramdown
 theme: jekyll-theme-cayman
+baseurl: /CAP_Pub
