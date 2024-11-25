@@ -1,29 +1,26 @@
-### Adding Your Squadron Calendar to Google Calendar
+### Accessing Your Squadron Calendar
 
-If you don’t have a Google account associated with the email you provided, you will need to create one.
+First, The calendars created are Google calendars.  If you don’t have a Google account associated with the email you provided, you "should" still be able to access the calendar's from link that is provided.   FYI - All of the images associated in this how to are based on having a google account to start with.
 
-The calendars created are Google calendars, and to access your squadron calendar, you will need a Google account. You can use your email (it does NOT have to be a Gmail.com address) to create a Google account. [Learn how to create a Google account here.](https://at3davis.github.io/my_CAP_Project/CreateGoogleAcct.html)
+If you choose to createa google account using the email you provided you will need to create one.  You can use your email (it does NOT have to be a Gmail.com address) to create a Google account. [Learn how to create a Google account here.](https://at3davis.github.io/my_CAP_Project/CreateGoogleAcct.html)
 
 ---
 
-### Step-by-Step Guide: Adding Your Squadron Calendar
+### Step-by-Step Guide: Accessing Your Squadron Calendar
 
-1. **Sign in to Google**
-   - Open [Google.com](https://www.google.com) and sign in with the account you already have or created above.
-
-2. **Find the Calendar Invitation Email**
+1. **Find the Calendar Invitation Email**
    - In the email account you provided, locate the email with the subject:  
      **"Wing Calendar has shared a calendar with you."**
    - Click the link in that email: **“Add this calendar”**.  
      <img src="https://at3davis.github.io/my_CAP_Project/images/Figure1a.png" alt="Figure 1: Email with 'Add this calendar' link" style="max-width: 90%; height: auto;">
 
-3. **Add the Calendar**
+2. **Add the Calendar**
    - The link will open [Google Calendar](https://calendar.google.com) and prompt you to confirm adding the calendar.
    - Click **“Add”**.  
      <img src="https://at3davis.github.io/my_CAP_Project/images/Figure1b.png" alt="Figure 2: Add Calendar Confirmation" style="max-width: 60%; height: auto;">
 
-4. **Locate the Added Calendar**
-   - The calendar will appear in the bottom-left pane under **“Other Calendars”**.  
+3. **Locate the Added Calendar**
+   - The calendar will appear in the bottom-left pane under **“Other Calendars”** if you have a google account.   If you do not, then it will likely take you to a calendar page that is soley for your squadron  
      <img src="https://at3davis.github.io/my_CAP_Project/images/Figure3a.png" alt="Figure 3: Other Calendars Pane" style="max-width: 50%; height: auto;">
 
 ---
